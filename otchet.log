@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.6.26)  20 MAY 2012 21:55
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.6.26)  22 MAY 2012 23:01
 entering extended mode
  %&-line parsing enabled.
 **otchet.tex
@@ -827,6 +827,9 @@ Package xcolor Warning: Incompatible color definition on input line 9.
 
 Package xcolor Warning: Incompatible color definition on input line 10.
 
+
+Package xcolor Warning: Incompatible color definition on input line 11.
+
 )
 \tf@toc=\write5
 \openout5 = `otchet.toc'.
@@ -992,26 +995,74 @@ Overfull \hbox (15.41925pt too wide) in paragraph at lines 156--167
 [][] 
  []
 
-[10] (./otchet.aux) ) 
+[10]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 13.70703pt
+(hyperref)                replaced by space on input line 170.
+
+[11
+
+] [12]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 13.70703pt
+(hyperref)                replaced by space on input line 193.
+
+[13
+
+]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 13.70703pt
+(hyperref)                replaced by space on input line 194.
+
+[14
+
+]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 13.70703pt
+(hyperref)                replaced by space on input line 195.
+
+[15
+
+]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 13.70703pt
+(hyperref)                replaced by space on input line 196.
+
+[16
+
+]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 13.70703pt
+(hyperref)                replaced by space on input line 197.
+
+[17
+
+] (./otchet.aux) ) 
 Here is how much of TeX's memory you used:
- 20452 strings out of 493848
- 331694 string characters out of 1152823
+ 20466 strings out of 493848
+ 331808 string characters out of 1152823
  399798 words of memory out of 3000000
- 23252 multiletter control sequences out of 15000+50000
+ 23253 multiletter control sequences out of 15000+50000
  15790 words of font info for 42 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
  56i,8n,55p,1349b,1077s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.en
-c}</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/sha
-re/texmf/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1
-/public/cm-super/sfbx1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfb
-x2074.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/shar
-e/texmf/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf/fonts/type1/
-public/cm-super/sfrm2074.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss
-1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1440.pfb>
-Output written on otchet.pdf (10 pages, 183935 bytes).
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}<
+/usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/
+texmf/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/pu
+blic/cm-super/sfbx1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx20
+74.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/t
+exmf/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf/fonts/type1/pub
+lic/cm-super/sfrm2074.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss120
+0.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1440.pfb>
+Output written on otchet.pdf (17 pages, 217966 bytes).
 PDF statistics:
- 190 PDF objects out of 1000 (max. 8388607)
- 58 named destinations out of 1000 (max. 500000)
- 105 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 231 PDF objects out of 1000 (max. 8388607)
+ 71 named destinations out of 1000 (max. 500000)
+ 113 words of extra memory for PDF output out of 10000 (max. 10000000)
 
