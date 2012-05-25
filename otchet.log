@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.6.26)  22 MAY 2012 23:01
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.6.26)  26 MAY 2012 01:09
 entering extended mode
  %&-line parsing enabled.
 **otchet.tex
@@ -830,6 +830,30 @@ Package xcolor Warning: Incompatible color definition on input line 10.
 
 Package xcolor Warning: Incompatible color definition on input line 11.
 
+
+Package xcolor Warning: Incompatible color definition on input line 12.
+
+
+Package xcolor Warning: Incompatible color definition on input line 13.
+
+
+Package xcolor Warning: Incompatible color definition on input line 14.
+
+
+Package xcolor Warning: Incompatible color definition on input line 15.
+
+
+Package xcolor Warning: Incompatible color definition on input line 16.
+
+
+Package xcolor Warning: Incompatible color definition on input line 17.
+
+
+Package xcolor Warning: Incompatible color definition on input line 18.
+
+
+Package xcolor Warning: Incompatible color definition on input line 19.
+
 )
 \tf@toc=\write5
 \openout5 = `otchet.toc'.
@@ -1001,21 +1025,45 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 13.70703pt
 (hyperref)                replaced by space on input line 170.
 
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 13.70703pt
+(hyperref)                replaced by space on input line 172.
+
+
+Overfull \hbox (40.01804pt too wide) in paragraph at lines 173--174
+\T2A/cmr/m/n/14.4 в сво^^?ей он^^?то^^?ло^^?гии ли^^?бо со^^?зда^^?вать на них 
+ссыл^^?ки.(проект http://swoogle.umbc.edu/
+ []
+
 [11
 
 ] [12]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 13.70703pt
-(hyperref)                replaced by space on input line 193.
+(hyperref)                replaced by space on input line 207.
 
-[13
-
-]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 13.70703pt
-(hyperref)                replaced by space on input line 194.
+(hyperref)                replaced by space on input line 208.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 13.70703pt
+(hyperref)                replaced by space on input line 209.
+
+[13]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 13.70703pt
+(hyperref)                replaced by space on input line 211.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 13.70703pt
+(hyperref)                replaced by space on input line 212.
 
 [14
 
@@ -1023,7 +1071,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 13.70703pt
-(hyperref)                replaced by space on input line 195.
+(hyperref)                replaced by space on input line 213.
 
 [15
 
@@ -1031,38 +1079,42 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 13.70703pt
-(hyperref)                replaced by space on input line 196.
+(hyperref)                replaced by space on input line 214.
 
 [16
 
-]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \hskip 13.70703pt
-(hyperref)                replaced by space on input line 197.
-
-[17
-
 ] (./otchet.aux) ) 
 Here is how much of TeX's memory you used:
- 20466 strings out of 493848
- 331808 string characters out of 1152823
- 399798 words of memory out of 3000000
- 23253 multiletter control sequences out of 15000+50000
+ 20492 strings out of 493848
+ 332060 string characters out of 1152823
+ 399797 words of memory out of 3000000
+ 23261 multiletter control sequences out of 15000+50000
  15790 words of font info for 42 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
  56i,8n,55p,1349b,1077s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}<
-/usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/
-texmf/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/pu
-blic/cm-super/sfbx1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx20
-74.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/t
-exmf/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf/fonts/type1/pub
-lic/cm-super/sfrm2074.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss120
-0.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1440.pfb>
-Output written on otchet.pdf (17 pages, 217966 bytes).
+pdfTeX warning (dest): name{chapter.7} has been referenced bu
+t does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.5.1} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.4.3} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.4.2} has been referenced but does not exist
+, replaced by a fixed one
+
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/share/texmf-t
+exlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/
+public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx
+1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx2074.pfb></usr/share
+/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/p
+ublic/cm-super/sfrm1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm2
+074.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1200.pfb></usr/share/
+texmf/fonts/type1/public/cm-super/sfti1440.pfb>
+Output written on otchet.pdf (16 pages, 226791 bytes).
 PDF statistics:
- 231 PDF objects out of 1000 (max. 8388607)
- 71 named destinations out of 1000 (max. 500000)
- 113 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 282 PDF objects out of 1000 (max. 8388607)
+ 89 named destinations out of 1000 (max. 500000)
+ 177 words of extra memory for PDF output out of 10000 (max. 10000000)
 
