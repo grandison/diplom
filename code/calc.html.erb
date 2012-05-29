@@ -49,12 +49,15 @@
 		</div>
 	</div>
 	<div class="span6">
-		<%= form_tag effects_drugs_path, :class => "select_drugs form-horizontal" do %>
+		<%= form_tag effects_drugs_path, 
+			:class => "select_drugs form-horizontal" do %>
 			<fieldset>
 				<div class="input-append">
 					<%= text_field_tag :drugs %>
 					<button class="btn" href="#">Выбрать</button>
-					<button class="btn btn-danger clear_selected_drugs" href="#">Очистить</button>
+					<button class="btn btn-danger clear_selected_drugs" href="#">
+						Очистить
+					</button>
 				</div>
 			</fieldset>
 		<% end -%>
