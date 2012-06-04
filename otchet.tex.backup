@@ -22,6 +22,15 @@
   tabsize=2,
   backgroundcolor=\color{light-gray},
 }
+\usepackage{url}
+
+%% Define a new 'leo' style for the package that will use a smaller font.
+\makeatletter
+\def\url@leostyle{%
+  \@ifundefined{selectfont}{\def\UrlFont{\sf}}{\def\UrlFont{\small\ttfamily}}}
+\makeatother
+%% Now actually use the newly defined style.
+\urlstyle{leo}
 \begin{document}
 \tableofcontents % это оглавление, которое генерируется автоматически
 \intro
@@ -60,7 +69,7 @@
     (2) edge node {имеет пол} (4);
 \end{tikzpicture}
 
-Субъекты и объекты могут быть представлены URI, либо литералом. URI - это уникальный идентификатор, который обозначает сущность: например URI для собаки может быть таким \textit{'http://example.ru/animals/dog'}. Литерал - это просто строка, например 'Jack Nickolson', с возможными добавлениями, указывающими язык, тип данных (поддерживаемый XML, такие как integer и datetime). В идеале каждая между сущностями и URI составлено взаимно однозначное соответствие: каждый URI принадлежит только одной сущности и каждая сущность имеет только один URI.
+Субъекты и объекты могут быть представлены URI, либо литералом. URI - это уникальный идентификатор, который обозначает сущность: например URI для собаки может быть таким \textit{'http://example.ru/animals/dog'}. Литерал - это просто строка, например 'Jack Nickolson', с возможными добавлениями, указывающими язык, тип данных (поддерживаемый XML, такие как integer и datetime). В идеале между сущностями и URI составлено взаимно однозначное соответствие: каждый URI принадлежит только одной сущности и каждая сущность имеет только один URI.
 Для обозначение предикатов всегда используются URI.
 
 Использование URI в RDF облегчает нахождение документов, связанных с сущностью. Например, если кто-то(или чья-то программа) ищет информацию о собаках, то ему надо искать все триплеты содержащие URI \textit{http://www.example.ru/animals/dog}.
@@ -323,7 +332,7 @@ sparql_query(query).map(&:toxicity).join(",")
 
 \section{Spira}
 Spira - это RDF ORM(фреймфорк для представления информации, хранящейся в RDF-хранилище, в виде объектов).
-С его использованием, создается Ruby-класс Drug. Экземпляр этого класса содержит значения всех триплетов для сущности, которую он отображает.
+С его использованием создается Ruby-класс Drug. Экземпляр этого класса содержит значения всех триплетов для сущности, которую он отображает.
 Для этого в заголовке добавляем информацию о хранимых аттрибутах.
 \begin{lstlisting}[language=Ruby]
 include Spira::Resource
@@ -523,8 +532,25 @@ $(".select_drugs .clear_selected_drugs").click(function(e){
  \item Написание SPARQL-запросов, реализация SPARQL-точки.
  \item Построение пользовательского интерфейса.
 \end{enumerate}
-В реализованном RDF-хранилище представлено более 20000 лекарств, 
+В реализованном RDF-хранилище представлено более 20000 лекарств, подготовлена система создания связей с другими RDF-хранилищами. Пользователи сайта могут получать информацию о лекарствах, недоступную на других ресурсах: суммарные противопоказания и побочные эффекты для группы лекарств, похожие препараты.
 
+Данная система может использоваться как информационный ресурс для врачей и пациентов. Благодаря SPARQL-точке, хранилище может использоваться и как основа для семантических ризонеров.
+
+\addcontentsline{toc}{chapter}{Литература}
+\chapter*{Литература}
+\begin{thebibliography}{9}
+  \bibitem {ricardolopes} R. Lopes, \emph{Developing for the Semantic Web with Ruby on Rails, the 2012 guide.}, \url{http://ricardolopes.net/blog/developing-for-the-semantic-web-with-ruby-on-rails-the-2012-guide/}
+  \bibitem {spira} B. Lavender, \emph{Spira: A Linked Data ORM for Ruby.}, \url{http://blog.datagraph.org/2010/05/spira/}
+  \bibitem {rdfdo} B. Lavender, \emph{RDF-do.}, \url{https://github.com/bhuga/rdf-do/}
+  \bibitem {rubysem} V. Eisenberg, Y. Kanza, \emph{Ruby on Semantic Web}, \url{www.cs.technion.ac.il/~kanza/Papers/ ICDE11.pdf/}
+  \bibitem {rubylang} D. Flanagan, Y. Matsumoto, \emph{The Ruby Programming Language.}, O’Reilly, 2008.
+  \bibitem {rdfretr} A. Hertel, J. Broekstra, \emph{RDF Storage and Retrieval Systems},  Handbook on Ontologies, 2009.
+  \bibitem {rdflatenc} A. Owens, \emph{Using Low Latency Storage to Improve RDF Store Performance},  University of Southampton, 2011.
+  \bibitem {sparql} E. Prud'Hommeaux, \emph{SPARQL query language for RDF},  W3C working draft, 2008
+  \bibitem {rdfdiff} A. Bendiken, \emph{How RDF Databases Differ from Other NoSQL Solutions.}, \url{http://blog.datagraph.org/2010/04/rdf-nosql-diff/}
+  \bibitem {rdfrb} A.Bendiken, \emph{RDF.rb: Linked Data for Ruby}, \url{http://rdf.rubyforge.org/}
+  \bibitem {nokogiri} A. Patterson, M. Dalessio, C. Nutter, \emph{Nokogiri: an HTML, XML, SAX, and Reader Parser}, \url{http://rdf.rubyforge.org/}
+\end{thebibliography}
 
 \addcontentsline{toc}{chapter}{Листинг}
 \chapter*{Листинг}

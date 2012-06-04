@@ -28,20 +28,21 @@
 \contentsline {section}{\numberline {5.3.\hskip 1em}\IeC {\CYRK }\IeC {\cyra }\IeC {\cyrl }\IeC {\cyrsftsn }\IeC {\cyrk }\IeC {\cyru }\IeC {\cyrl }\IeC {\cyrya }\IeC {\cyrt }\IeC {\cyro }\IeC {\cyrr } \IeC {\cyrl }\IeC {\cyre }\IeC {\cyrk }\IeC {\cyra }\IeC {\cyrr }\IeC {\cyrs }\IeC {\cyrt }\IeC {\cyrv }}{27}{section.5.3}
 \contentsline {section}{\numberline {5.4.\hskip 1em}SPARQL \IeC {\cyrf }\IeC {\cyro }\IeC {\cyrr }\IeC {\cyrm }\IeC {\cyra }}{30}{section.5.4}
 \contentsline {chapter}{\IeC {\CYRZ }\IeC {\cyra }\IeC {\cyrk }\IeC {\cyrl }\IeC {\cyryu }\IeC {\cyrch }\IeC {\cyre }\IeC {\cyrn }\IeC {\cyri }\IeC {\cyre }}{30}{section.5.4}
-\contentsline {chapter}{\IeC {\CYRL }\IeC {\cyri }\IeC {\cyrs }\IeC {\cyrt }\IeC {\cyri }\IeC {\cyrn }\IeC {\cyrg }}{31}{Item.39}
-\contentsline {section}{\IeC {\CYRP }\IeC {\cyra }\IeC {\cyrr }\IeC {\cyrs }\IeC {\cyri }\IeC {\cyrn }\IeC {\cyrg } Webapteka}{32}{chapter*.5}
-\contentsline {section}{\IeC {\CYRN }\IeC {\cyra }\IeC {\cyrs }\IeC {\cyrt }\IeC {\cyrr }\IeC {\cyro }\IeC {\cyrishrt }\IeC {\cyrk }\IeC {\cyra } RDF-\IeC {\cyrr }\IeC {\cyre }\IeC {\cyrp }\IeC {\cyro }\IeC {\cyrz }\IeC {\cyri }\IeC {\cyrt }\IeC {\cyro }\IeC {\cyrr }\IeC {\cyri }\IeC {\cyrya }}{33}{lstnumber.-24.36}
-\contentsline {section}{\IeC {\CYRZ }\IeC {\cyra }\IeC {\cyrp }\IeC {\cyro }\IeC {\cyrl }\IeC {\cyrn }\IeC {\cyre }\IeC {\cyrn }\IeC {\cyri }\IeC {\cyre } RDF-\IeC {\cyrh }\IeC {\cyrr }\IeC {\cyra }\IeC {\cyrn }\IeC {\cyri }\IeC {\cyrl }\IeC {\cyri }\IeC {\cyrshch }\IeC {\cyra }}{33}{lstnumber.-25.16}
-\contentsline {section}{\IeC {\CYRK }\IeC {\cyro }\IeC {\cyrn }\IeC {\cyrt }\IeC {\cyrr }\IeC {\cyro }\IeC {\cyrl }\IeC {\cyrl }\IeC {\cyre }\IeC {\cyrr }\IeC {\cyrery }}{36}{lstnumber.-26.90}
-\contentsline {subsection}{DrugsController}{36}{section*.9}
-\contentsline {subsection}{SparqlController}{36}{lstnumber.-27.29}
-\contentsline {section}{\IeC {\CYRM }\IeC {\cyro }\IeC {\cyrd }\IeC {\cyre }\IeC {\cyrl }\IeC {\cyri }}{37}{lstnumber.-28.12}
-\contentsline {subsection}{Drug}{37}{section*.12}
-\contentsline {subsection}{DrugCategory}{40}{lstnumber.-29.107}
-\contentsline {subsection}{DrugInteraction}{40}{lstnumber.-30.6}
-\contentsline {subsection}{DrugPart}{40}{lstnumber.-31.13}
-\contentsline {section}{\IeC {\CYRP }\IeC {\cyrr }\IeC {\cyre }\IeC {\cyrd }\IeC {\cyrs }\IeC {\cyrt }\IeC {\cyra }\IeC {\cyrv }\IeC {\cyrl }\IeC {\cyre }\IeC {\cyrn }\IeC {\cyri }\IeC {\cyrya }}{41}{lstnumber.-32.13}
-\contentsline {subsection}{\IeC {\CYRO }\IeC {\cyrs }\IeC {\cyrn }\IeC {\cyro }\IeC {\cyrv }\IeC {\cyrn }\IeC {\cyro }\IeC {\cyrishrt } \IeC {\cyrs }\IeC {\cyrl }\IeC {\cyro }\IeC {\cyrishrt }}{41}{section*.17}
-\contentsline {subsection}{\IeC {\CYRS }\IeC {\cyrp }\IeC {\cyri }\IeC {\cyrs }\IeC {\cyro }\IeC {\cyrk } \IeC {\cyrl }\IeC {\cyre }\IeC {\cyrk }\IeC {\cyra }\IeC {\cyrr }\IeC {\cyrs }\IeC {\cyrt }\IeC {\cyrv }}{42}{lstnumber.-33.30}
-\contentsline {subsection}{\IeC {\CYRS }\IeC {\cyrt }\IeC {\cyrr }\IeC {\cyra }\IeC {\cyrn }\IeC {\cyri }\IeC {\cyrc }\IeC {\cyra } \IeC {\cyrl }\IeC {\cyre }\IeC {\cyrk }\IeC {\cyra }\IeC {\cyrr }\IeC {\cyrs }\IeC {\cyrt }\IeC {\cyrv }\IeC {\cyra }}{42}{lstnumber.-34.6}
-\contentsline {subsection}{\IeC {\CYRK }\IeC {\cyra }\IeC {\cyrl }\IeC {\cyrsftsn }\IeC {\cyrk }\IeC {\cyru }\IeC {\cyrl }\IeC {\cyrya }\IeC {\cyrt }\IeC {\cyro }\IeC {\cyrr } \IeC {\cyrl }\IeC {\cyre }\IeC {\cyrk }\IeC {\cyra }\IeC {\cyrr }\IeC {\cyrs }\IeC {\cyrt }\IeC {\cyrv }}{43}{lstnumber.-35.56}
+\contentsline {chapter}{{\Russian \CYRL \cyri \cyrt \cyre \cyrr \cyra \cyrt \cyru \cyrr \cyra }}{32}{chapter*.5}
+\contentsline {chapter}{\IeC {\CYRL }\IeC {\cyri }\IeC {\cyrs }\IeC {\cyrt }\IeC {\cyri }\IeC {\cyrn }\IeC {\cyrg }}{33}{chapter*.6}
+\contentsline {section}{\IeC {\CYRP }\IeC {\cyra }\IeC {\cyrr }\IeC {\cyrs }\IeC {\cyri }\IeC {\cyrn }\IeC {\cyrg } Webapteka}{34}{chapter*.7}
+\contentsline {section}{\IeC {\CYRN }\IeC {\cyra }\IeC {\cyrs }\IeC {\cyrt }\IeC {\cyrr }\IeC {\cyro }\IeC {\cyrishrt }\IeC {\cyrk }\IeC {\cyra } RDF-\IeC {\cyrr }\IeC {\cyre }\IeC {\cyrp }\IeC {\cyro }\IeC {\cyrz }\IeC {\cyri }\IeC {\cyrt }\IeC {\cyro }\IeC {\cyrr }\IeC {\cyri }\IeC {\cyrya }}{35}{lstnumber.-24.36}
+\contentsline {section}{\IeC {\CYRZ }\IeC {\cyra }\IeC {\cyrp }\IeC {\cyro }\IeC {\cyrl }\IeC {\cyrn }\IeC {\cyre }\IeC {\cyrn }\IeC {\cyri }\IeC {\cyre } RDF-\IeC {\cyrh }\IeC {\cyrr }\IeC {\cyra }\IeC {\cyrn }\IeC {\cyri }\IeC {\cyrl }\IeC {\cyri }\IeC {\cyrshch }\IeC {\cyra }}{35}{lstnumber.-25.16}
+\contentsline {section}{\IeC {\CYRK }\IeC {\cyro }\IeC {\cyrn }\IeC {\cyrt }\IeC {\cyrr }\IeC {\cyro }\IeC {\cyrl }\IeC {\cyrl }\IeC {\cyre }\IeC {\cyrr }\IeC {\cyrery }}{38}{lstnumber.-26.90}
+\contentsline {subsection}{DrugsController}{38}{section*.11}
+\contentsline {subsection}{SparqlController}{38}{lstnumber.-27.29}
+\contentsline {section}{\IeC {\CYRM }\IeC {\cyro }\IeC {\cyrd }\IeC {\cyre }\IeC {\cyrl }\IeC {\cyri }}{39}{lstnumber.-28.12}
+\contentsline {subsection}{Drug}{39}{section*.14}
+\contentsline {subsection}{DrugCategory}{42}{lstnumber.-29.107}
+\contentsline {subsection}{DrugInteraction}{42}{lstnumber.-30.6}
+\contentsline {subsection}{DrugPart}{42}{lstnumber.-31.13}
+\contentsline {section}{\IeC {\CYRP }\IeC {\cyrr }\IeC {\cyre }\IeC {\cyrd }\IeC {\cyrs }\IeC {\cyrt }\IeC {\cyra }\IeC {\cyrv }\IeC {\cyrl }\IeC {\cyre }\IeC {\cyrn }\IeC {\cyri }\IeC {\cyrya }}{43}{lstnumber.-32.13}
+\contentsline {subsection}{\IeC {\CYRO }\IeC {\cyrs }\IeC {\cyrn }\IeC {\cyro }\IeC {\cyrv }\IeC {\cyrn }\IeC {\cyro }\IeC {\cyrishrt } \IeC {\cyrs }\IeC {\cyrl }\IeC {\cyro }\IeC {\cyrishrt }}{43}{section*.19}
+\contentsline {subsection}{\IeC {\CYRS }\IeC {\cyrp }\IeC {\cyri }\IeC {\cyrs }\IeC {\cyro }\IeC {\cyrk } \IeC {\cyrl }\IeC {\cyre }\IeC {\cyrk }\IeC {\cyra }\IeC {\cyrr }\IeC {\cyrs }\IeC {\cyrt }\IeC {\cyrv }}{44}{lstnumber.-33.30}
+\contentsline {subsection}{\IeC {\CYRS }\IeC {\cyrt }\IeC {\cyrr }\IeC {\cyra }\IeC {\cyrn }\IeC {\cyri }\IeC {\cyrc }\IeC {\cyra } \IeC {\cyrl }\IeC {\cyre }\IeC {\cyrk }\IeC {\cyra }\IeC {\cyrr }\IeC {\cyrs }\IeC {\cyrt }\IeC {\cyrv }\IeC {\cyra }}{44}{lstnumber.-34.6}
+\contentsline {subsection}{\IeC {\CYRK }\IeC {\cyra }\IeC {\cyrl }\IeC {\cyrsftsn }\IeC {\cyrk }\IeC {\cyru }\IeC {\cyrl }\IeC {\cyrya }\IeC {\cyrt }\IeC {\cyro }\IeC {\cyrr } \IeC {\cyrl }\IeC {\cyre }\IeC {\cyrk }\IeC {\cyra }\IeC {\cyrr }\IeC {\cyrs }\IeC {\cyrt }\IeC {\cyrv }}{45}{lstnumber.-35.56}

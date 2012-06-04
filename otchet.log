@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.6.26)  28 MAY 2012 22:06
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.6.26)  4 JUN 2012 00:13
 entering extended mode
  %&-line parsing enabled.
 **otchet.tex
@@ -693,31 +693,31 @@ s (HO)
 ))) (./otchet.aux)
 \openout1 = `otchet.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption3 Info: subfig package 1.2 or 1.3 is loaded.
-LaTeX Info: Redefining \subref on input line 25.
+LaTeX Info: Redefining \subref on input line 34.
 Package caption Info: hyperref package is loaded.
 Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring ON on input line 25.
+Package hyperref Info: Link coloring ON on input line 34.
 
 (/usr/share/texmf-texlive/tex/latex/hyperref/nameref.sty
 Package: nameref 2007/05/29 v2.31 Cross-referencing by name of section
@@ -727,8 +727,8 @@ Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
 )
 \c@section@level=\count150
 )
-LaTeX Info: Redefining \ref on input line 25.
-LaTeX Info: Redefining \pageref on input line 25.
+LaTeX Info: Redefining \ref on input line 34.
+LaTeX Info: Redefining \pageref on input line 34.
  (./otchet.out)
 (./otchet.out)
 \@outlinefile=\write4
@@ -903,10 +903,13 @@ Package xcolor Warning: Incompatible color definition on input line 34.
 Package xcolor Warning: Incompatible color definition on input line 35.
 
 
-Package xcolor Warning: Incompatible color definition on input line 38.
+Package xcolor Warning: Incompatible color definition on input line 36.
 
 
-Package xcolor Warning: Incompatible color definition on input line 43.
+Package xcolor Warning: Incompatible color definition on input line 39.
+
+
+Package xcolor Warning: Incompatible color definition on input line 44.
 
 )
 \tf@toc=\write5
@@ -921,28 +924,32 @@ File: uni-4.def 2004/10/17 UCS: Unicode data U+0400..U+04FF
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 13.70703pt
-(hyperref)                replaced by space on input line 42.
+(hyperref)                replaced by space on input line 51.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 13.70703pt
-(hyperref)                replaced by space on input line 43.
+(hyperref)                replaced by space on input line 52.
 
 (/usr/share/texmf-texlive/tex/latex/ucs/data/uni-32.def
 File: uni-32.def 2004/10/17 UCS: Unicode data U+2000..U+20FF
 )
-Underfull \hbox (badness 10000) in paragraph at lines 50--53
+
+Package xcolor Warning: Incompatible color definition on input line 54.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--62
 
  []
 
-LaTeX Font Info:    Try loading font information for T2A+cmss on input line 60.
+LaTeX Font Info:    Try loading font information for T2A+cmss on input line 69.
 
 (/usr/share/texmf-texlive/tex/latex/cyrillic/t2acmss.fd
 File: t2acmss.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 ) [4
 
 ]
-Overfull \hbox (2.11285pt too wide) in paragraph at lines 87--88
+Overfull \hbox (2.11285pt too wide) in paragraph at lines 96--97
 []\T2A/cmr/m/n/14.4 Использование URI да^^?ет воз^^?мож^^?ность объ^^?еди^^?нят
 ь ин^^?фор^^?ма^^?цию о сущ^^?
  []
@@ -951,17 +958,20 @@ Overfull \hbox (2.11285pt too wide) in paragraph at lines 87--88
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 13.70703pt
-(hyperref)                replaced by space on input line 91.
+(hyperref)                replaced by space on input line 100.
+
+
+Package xcolor Warning: Incompatible color definition on input line 101.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 13.70703pt
-(hyperref)                replaced by space on input line 93.
+(hyperref)                replaced by space on input line 102.
 
 (/usr/share/texmf-texlive/tex/latex/ucs/utf8x.def
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 )
-Overfull \hbox (5.52298pt too wide) in paragraph at lines 101--102
+Overfull \hbox (5.52298pt too wide) in paragraph at lines 110--111
 \T2A/cmr/m/n/14.4 МУЖ^^?СКОЙ) и вер^^?нет спи^^?сок субъ^^?ек^^?тов. Ин^^?фор^^
 ?ма^^?ция воз^^?вра^^?ща^^?ет^^?ся в XML-^^?
  []
@@ -975,12 +985,12 @@ File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 13.70703pt
-(hyperref)                replaced by space on input line 126.
+(hyperref)                replaced by space on input line 135.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 13.70703pt
-(hyperref)                replaced by space on input line 129.
+(hyperref)                replaced by space on input line 138.
 
 [8
 
@@ -988,30 +998,30 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 13.70703pt
-(hyperref)                replaced by space on input line 139.
+(hyperref)                replaced by space on input line 148.
 
 [9]
-Underfull \hbox (badness 10000) in paragraph at lines 161--161
+Underfull \hbox (badness 10000) in paragraph at lines 170--170
 []\T2A/cmr/m/n/14.4 SQL-запросы мо^^?гут из^^?вле^^?кать
  []
 
 
-Underfull \hbox (badness 4518) in paragraph at lines 162--163
+Underfull \hbox (badness 4518) in paragraph at lines 171--172
 \T2A/cmr/m/n/14.4 ля^^?ют SQL-^^?подоб^^?ный син^^?так^^?сис
  []
 
 
-Underfull \hbox (badness 2245) in paragraph at lines 162--163
+Underfull \hbox (badness 2245) in paragraph at lines 171--172
 \T2A/cmr/m/n/14.4 для за^^?да^^?ния усло^^?вий филь^^?тра^^?
  []
 
 
-Underfull \hbox (badness 5908) in paragraph at lines 165--166
+Underfull \hbox (badness 5908) in paragraph at lines 174--175
 []\T2A/cmr/m/n/14.4 Зачастую мож^^?но ис^^?поль^^?зо^^?вать
  []
 
 [10]
-Underfull \hbox (badness 3568) in paragraph at lines 177--177
+Underfull \hbox (badness 3568) in paragraph at lines 186--186
 []\T2A/cmr/m/n/14.4 Чаще все^^?го ис^^?поль^^?зу^^?ют^^?ся соб^^?
  []
 
@@ -1019,49 +1029,61 @@ Underfull \hbox (badness 3568) in paragraph at lines 177--177
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 13.70703pt
-(hyperref)                replaced by space on input line 189.
+(hyperref)                replaced by space on input line 198.
+
+
+Package xcolor Warning: Incompatible color definition on input line 199.
 
 [13] [14]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 13.70703pt
-(hyperref)                replaced by space on input line 201.
+(hyperref)                replaced by space on input line 210.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 13.70703pt
-(hyperref)                replaced by space on input line 203.
+(hyperref)                replaced by space on input line 212.
 
 
-Overfull \hbox (40.01804pt too wide) in paragraph at lines 204--205
+Overfull \hbox (40.01804pt too wide) in paragraph at lines 213--214
 \T2A/cmr/m/n/14.4 в сво^^?ей он^^?то^^?ло^^?гии ли^^?бо со^^?зда^^?вать на них 
 ссыл^^?ки.(проект http://swoogle.umbc.edu/
  []
 
 [15
 
-] <images/2.png, id=288, 1240.635pt x 752.8125pt>
+] <images/2.png, id=299, 1240.635pt x 752.8125pt>
 File: images/2.png Graphic file (type png)
  <use images/2.png>
-Underfull \hbox (badness 10000) in paragraph at lines 223--226
+Underfull \hbox (badness 10000) in paragraph at lines 232--235
 
  []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 13.70703pt
-(hyperref)                replaced by space on input line 227.
+(hyperref)                replaced by space on input line 236.
+
+
+Package xcolor Warning: Incompatible color definition on input line 238.
+
+
+Package xcolor Warning: Incompatible color definition on input line 240.
 
 [16 <./images/2.png>]
 
+Package xcolor Warning: Incompatible color definition on input line 244.
+
+
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 13.70703pt
-(hyperref)                replaced by space on input line 238.
+(hyperref)                replaced by space on input line 247.
 
 (/usr/share/texmf-texlive/tex/latex/ucs/utf8x.def
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 ) [17]
-Overfull \hbox (6.50188pt too wide) in paragraph at lines 250--253
+Overfull \hbox (6.50188pt too wide) in paragraph at lines 259--262
 \T2A/cmr/m/it/14.4 'http://ricardolopes.net/myont.owl'\T2A/cmr/m/n/14.4 , ко^^?
 то^^?рая со^^?дер^^?жит по мень^^?шей ме^^?ре класс
  []
@@ -1072,7 +1094,7 @@ File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 13.70703pt
-(hyperref)                replaced by space on input line 261.
+(hyperref)                replaced by space on input line 270.
 
 (/usr/share/texmf-texlive/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2004/09/05 1.3 listings language file
@@ -1101,7 +1123,10 @@ File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 13.70703pt
-(hyperref)                replaced by space on input line 324.
+(hyperref)                replaced by space on input line 333.
+
+
+Package xcolor Warning: Incompatible color definition on input line 334.
 
 (/usr/share/texmf-texlive/tex/latex/ucs/utf8x.def
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
@@ -1109,27 +1134,30 @@ File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 13.70703pt
-(hyperref)                replaced by space on input line 371.
+(hyperref)                replaced by space on input line 380.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 13.70703pt
-(hyperref)                replaced by space on input line 372.
+(hyperref)                replaced by space on input line 381.
 
-<images/3.png, id=422, 1284.8pt x 754.82pt>
+<images/3.png, id=441, 1284.8pt x 754.82pt>
 File: images/3.png Graphic file (type png)
  <use images/3.png>
-Overfull \hbox (30.0488pt too wide) in paragraph at lines 373--376
+Overfull \hbox (30.0488pt too wide) in paragraph at lines 382--385
 []\T2A/cmr/m/n/14.4 Для на^^?пол^^?не^^?ния RDF-^^?хра^^?ни^^?ли^^?ща ис^^?поль
 ^^?зо^^?вал^^?ся ре^^?сурс \T2A/cmr/m/it/14.4 http://webapteka.ru\T2A/cmr/m/n/1
 4.4 .
  []
 
 
-Overfull \hbox (20.09618pt too wide) in paragraph at lines 373--376
+Overfull \hbox (20.09618pt too wide) in paragraph at lines 382--385
 \T2A/cmr/m/n/14.4 Стра^^?ни^^?ца ле^^?кар^^?ства име^^?ет URL ви^^?да \T2A/cmr/
 m/it/14.4 http://webapteka.ru/drugbase/name1.html\T2A/cmr/m/n/14.4 ,
  []
+
+
+Package xcolor Warning: Incompatible color definition on input line 386.
 
 [22
 
@@ -1145,7 +1173,7 @@ File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 13.70703pt
-(hyperref)                replaced by space on input line 392.
+(hyperref)                replaced by space on input line 401.
 
 (/usr/share/texmf-texlive/tex/latex/ucs/utf8x.def
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
@@ -1156,14 +1184,14 @@ File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 13.70703pt
-(hyperref)                replaced by space on input line 419.
+(hyperref)                replaced by space on input line 428.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 13.70703pt
-(hyperref)                replaced by space on input line 426.
+(hyperref)                replaced by space on input line 435.
 
-<images/4.png, id=458, 1284.8pt x 754.82pt>
+<images/4.png, id=479, 1284.8pt x 754.82pt>
 File: images/4.png Graphic file (type png)
  <use images/4.png>
 (/usr/share/texmf-texlive/tex/latex/listings/lstlang1.sty
@@ -1172,13 +1200,13 @@ File: lstlang1.sty 2004/09/05 1.3 listings language file
 (/usr/share/texmf-texlive/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
 )
-Overfull \hbox (2.05272pt too wide) in paragraph at lines 430--431
+Overfull \hbox (2.05272pt too wide) in paragraph at lines 439--440
 []\T2A/cmr/m/n/14.4 Согласно пра^^?ви^^?лам оформ^^?ле^^?ния Bootstrap, на^^?ви
 ^^?га^^?ция об^^?рам^^?ля^^?ет^^?ся бло^^?
  []
 
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
-nput line 431.
+nput line 440.
 (/usr/share/texmf-texlive/tex/latex/ucs/utf8x.def
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 )
@@ -1191,9 +1219,9 @@ File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 13.70703pt
-(hyperref)                replaced by space on input line 440.
+(hyperref)                replaced by space on input line 449.
 
-<images/5.png, id=468, 1284.8pt x 754.82pt>
+<images/5.png, id=489, 1284.8pt x 754.82pt>
 File: images/5.png Graphic file (type png)
  <use images/5.png> [26]
 (/usr/share/texmf-texlive/tex/latex/ucs/utf8x.def
@@ -1202,12 +1230,12 @@ File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 13.70703pt
-(hyperref)                replaced by space on input line 448.
+(hyperref)                replaced by space on input line 457.
 
-<images/7.png, id=495, 1284.8pt x 754.82pt>
+<images/7.png, id=516, 1284.8pt x 754.82pt>
 File: images/7.png Graphic file (type png)
  <use images/7.png>
-<images/6.png, id=496, 388.45125pt x 251.94125pt>
+<images/6.png, id=517, 388.45125pt x 251.94125pt>
 File: images/6.png Graphic file (type png)
  <use images/6.png> [27 <./images/5.png>] (/usr/share/texmf-texlive/tex/latex/u
 cs/utf8x.def
@@ -1225,22 +1253,64 @@ File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 13.70703pt
-(hyperref)                replaced by space on input line 512.
+(hyperref)                replaced by space on input line 521.
 
-<images/8.png, id=553, 1284.8pt x 754.82pt>
+<images/8.png, id=574, 1284.8pt x 754.82pt>
 File: images/8.png Graphic file (type png)
  <use images/8.png> [30 <./images/8.png>] [31
 
-] (/usr/share/texmf-texlive/tex/latex/ucs/utf8x.def
+]
+
+Package xcolor Warning: Incompatible color definition on input line 542.
+
+LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 542
+.
+(/usr/share/texmf-texlive/tex/latex/cyrillic/t2acmtt.fd
+File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)
+Underfull \hbox (badness 10000) in paragraph at lines 542--543
+[]\T2A/cmr/m/n/14.4 R. Lopes, \T2A/cmr/m/it/14.4 Developing for the Semantic We
+b with Ruby
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 542--543
+\T2A/cmr/m/it/14.4 on Rails, the 2012 guide.\T2A/cmr/m/n/14.4 , [][]$\T2A/cmtt/
+m/n/12 http : / / ricardolopes . net / blog /
+ []
+
+
+Package xcolor Warning: Incompatible color definition on input line 543.
+
+
+Package xcolor Warning: Incompatible color definition on input line 544.
+
+
+Package xcolor Warning: Incompatible color definition on input line 545.
+
+
+Package xcolor Warning: Incompatible color definition on input line 550.
+
+
+Package xcolor Warning: Incompatible color definition on input line 551.
+
+[32
+
+]
+
+Package xcolor Warning: Incompatible color definition on input line 552.
+
+[33] (/usr/share/texmf-texlive/tex/latex/ucs/utf8x.def
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 ) (./code/parser.rb
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 9.
+
 (/usr/share/texmf-texlive/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 9.
- [32
+ [34
 
 ])
 (/usr/share/texmf-texlive/tex/latex/ucs/utf8x.def
@@ -1248,17 +1318,17 @@ File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 ) (./code/repository.rb)
 (/usr/share/texmf-texlive/tex/latex/ucs/utf8x.def
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
-) (./code/seeds.rb [33]
-[34]) [35] (/usr/share/texmf-texlive/tex/latex/ucs/utf8x.def
+) (./code/seeds.rb [35]
+[36]) [37] (/usr/share/texmf-texlive/tex/latex/ucs/utf8x.def
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 )
 (./code/drugs_controller.rb) (/usr/share/texmf-texlive/tex/latex/ucs/utf8x.def
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
-) (./code/sparql_controller.rb [36])
+) (./code/sparql_controller.rb [38])
 (/usr/share/texmf-texlive/tex/latex/ucs/utf8x.def
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
-) (./code/drug.rb [37]
-[38] [39]) (/usr/share/texmf-texlive/tex/latex/ucs/utf8x.def
+) (./code/drug.rb [39]
+[40] [41]) (/usr/share/texmf-texlive/tex/latex/ucs/utf8x.def
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 )
 (./code/drug_category.rb) (/usr/share/texmf-texlive/tex/latex/ucs/utf8x.def
@@ -1266,31 +1336,31 @@ File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 )
 (./code/drug_interaction.rb) (/usr/share/texmf-texlive/tex/latex/ucs/utf8x.def
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
-) (./code/drug_part.rb [40]) (/usr/share/texmf-texlive/tex/latex/ucs/utf8x.def
+) (./code/drug_part.rb [42]) (/usr/share/texmf-texlive/tex/latex/ucs/utf8x.def
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 )
-(./code/application.html.erb) [41]
+(./code/application.html.erb) [43]
 (/usr/share/texmf-texlive/tex/latex/ucs/utf8x.def
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 ) (./code/index.html.erb)
 (/usr/share/texmf-texlive/tex/latex/ucs/utf8x.def
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 ) (./code/show.html.erb
-[42]) (/usr/share/texmf-texlive/tex/latex/ucs/utf8x.def
+[44]) (/usr/share/texmf-texlive/tex/latex/ucs/utf8x.def
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 ) (./code/calc.html.erb
-[43] [44]
+[45] [46]
 Overfull \hbox (0.30693pt too wide) in paragraph at lines 58--60
 [][][][][][][][][][][][][][][][][][][][][][][][][]\T2A/cmr/m/n/10 Очистить 
  []
 
-[45]) [46] (./otchet.aux) ) 
+[47]) [48] (./otchet.aux) ) 
 Here is how much of TeX's memory you used:
- 22195 strings out of 493848
- 360053 string characters out of 1152823
- 445783 words of memory out of 3000000
- 24026 multiletter control sequences out of 15000+50000
- 17481 words of font info for 44 fonts, out of 3000000 for 9000
+ 22319 strings out of 493848
+ 362097 string characters out of 1152823
+ 447025 words of memory out of 3000000
+ 24105 multiletter control sequences out of 15000+50000
+ 23772 words of font info for 67 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
  56i,8n,55p,1466b,1634s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-
@@ -1302,10 +1372,11 @@ r/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/
 type1/public/cm-super/sfrm1440.pfb></usr/share/texmf/fonts/type1/public/cm-supe
 r/sfrm2074.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1200.pfb></usr
 /share/texmf/fonts/type1/public/cm-super/sfti1000.pfb></usr/share/texmf/fonts/t
-ype1/public/cm-super/sfti1440.pfb>
-Output written on otchet.pdf (46 pages, 920232 bytes).
+ype1/public/cm-super/sfti1440.pfb></usr/share/texmf/fonts/type1/public/cm-super
+/sftt1200.pfb>
+Output written on otchet.pdf (48 pages, 969821 bytes).
 PDF statistics:
- 1392 PDF objects out of 1440 (max. 8388607)
- 870 named destinations out of 1000 (max. 500000)
- 316 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1444 PDF objects out of 1728 (max. 8388607)
+ 887 named destinations out of 1000 (max. 500000)
+ 324 words of extra memory for PDF output out of 10000 (max. 10000000)
 
