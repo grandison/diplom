@@ -1,0 +1,9 @@
+\frametitle {SPARQL}\begin {lstlisting}
+  SELECT ?drug
+  WHERE {
+    ?drug <http://osmanov.me/drugComponent> ?drugPart .
+    <#{uri}> <http://osmanov.me/drugComponent> ?drugPart
+    FILTER (?drug != <#{uri}>)
+  }
+\end{lstlisting}
+
