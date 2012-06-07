@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.6.26)  7 JUN 2012 22:42
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.6.26)  8 JUN 2012 00:36
 entering extended mode
  %&-line parsing enabled.
 **chameleon.tex
@@ -767,6 +767,98 @@ File: uni-4.def 2004/10/17 UCS: Unicode data U+0400..U+04FF
 ) (./beamercolorthemechameleon.sty))
 (./beamercolorthemenouvelle.sty)
 
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\\' on input line 31.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\CYRV' on input line 31.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrery' on input line 31.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrp' on input line 31.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyro' on input line 31.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrl' on input line 31.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrn' on input line 31.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyri' on input line 31.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrl' on input line 31.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrs' on input line 31.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrt' on input line 31.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyru' on input line 31.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrd' on input line 31.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyre' on input line 31.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrn' on input line 31.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrt' on input line 31.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrg' on input line 31.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrr' on input line 31.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyru' on input line 31.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrp' on input line 31.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrp' on input line 31.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrery' on input line 31.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrb' on input line 31.
+
+
 Package hyperref Warning: Glyph not defined in PD1 encoding,
 (hyperref)                removing `\CYRO' on input line 31.
 
@@ -1250,98 +1342,86 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 [][]
  []
 
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-[]
- []
-
 [2
 
  <./link.png> <./imdb.png (PNG copy)> <./sparql.png> <./semwebgraph.png>]
+<rdf.png, id=32, 758.835pt x 534.99875pt>
+File: rdf.png Graphic file (type png)
+ <use rdf.png>
+Underfull \hbox (badness 10000) has occurred while \output is active
+[][]
+ []
+
+[3
+
+ <./rdf.png (PNG copy)>]
 \openout4 = `chameleon.vrb'.
 
-
-(./chameleon.vrb <words.png, id=33, 1025.8325pt x 618.31pt>
+ (./chameleon.vrb
+<words.png, id=38, 1025.8325pt x 618.31pt>
 File: words.png Graphic file (type png)
  <use words.png>)
 Underfull \hbox (badness 10000) has occurred while \output is active
 [][]
  []
 
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-[]
- []
-
-[3
-
- <./words.png>]
-Underfull \hbox (badness 10000) has occurred while \output is active
-[][]
- []
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-[]
- []
-
 [4
 
-] <onto.png, id=46, 485.815pt x 485.815pt>
-File: onto.png Graphic file (type png)
- <use onto.png>
-Overfull \hbox (6.87111pt too wide) in paragraph at lines 110--110
-[][] 
- []
-
-
-Overfull \hbox (24.00002pt too wide) in paragraph at lines 110--110
-[][]  
- []
-
-
-Overfull \vbox (1.0297pt too high) detected at line 110
- []
-
-
+ <./words.png>] (/usr/share/texmf-texlive/tex/latex/ucs/data/uni-0.def
+File: uni-0.def 2004/10/17 UCS: Unicode data U+0000..U+00FF
+)
 Underfull \hbox (badness 10000) has occurred while \output is active
 [][]
- []
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-[]
  []
 
 [5
 
- <./onto.png>]
+]
 Underfull \hbox (badness 10000) has occurred while \output is active
 [][]
- []
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-[]
  []
 
 [6
 
-] <storages.png, id=58, 601.24625pt x 493.845pt>
-File: storages.png Graphic file (type png)
- <use storages.png>
+] <onto.png, id=56, 485.815pt x 485.815pt>
+File: onto.png Graphic file (type png)
+ <use onto.png>
+Overfull \hbox (6.87111pt too wide) in paragraph at lines 126--126
+[][] 
+ []
+
+
+Overfull \hbox (24.00002pt too wide) in paragraph at lines 126--126
+[][]  
+ []
+
+
+Overfull \vbox (1.0297pt too high) detected at line 126
+ []
+
+
 Underfull \hbox (badness 10000) has occurred while \output is active
 [][]
  []
 
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-[]
- []
-
 [7
 
- <./storages.png>] <webapteka.png, id=66, 1284.8pt x 754.82pt>
+ <./onto.png>] <storages.png, id=64, 601.24625pt x 493.845pt>
+File: storages.png Graphic file (type png)
+
+<use storages.png>
+Overfull \hbox (24.00002pt too wide) in paragraph at lines 142--142
+[][]  
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[][]
+ []
+
+[8
+
+ <./storages.png>] <webapteka.png, id=71, 1284.8pt x 754.82pt>
 File: webapteka.png Graphic file (type png)
 
 <use webapteka.png>
@@ -1349,12 +1429,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 [][]
  []
 
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-[]
- []
-
-[8
+[9
 
  <./webapteka.png>]
 \openout4 = `chameleon.vrb'.
@@ -1381,17 +1456,12 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 [][]
  []
 
+[10
 
-Underfull \hbox (badness 10000) has occurred while \output is active
-[]
- []
-
-[9
-
-] <graph.png, id=79, 640.3925pt x 466.74374pt>
+] <graph.png, id=84, 640.3925pt x 466.74374pt>
 File: graph.png Graphic file (type png)
  <use graph.png>
-Overfull \hbox (24.00002pt too wide) in paragraph at lines 158--158
+Overfull \hbox (24.00002pt too wide) in paragraph at lines 179--179
 [][]  
  []
 
@@ -1400,12 +1470,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 [][]
  []
 
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-[]
- []
-
-[10
+[11
 
  <./graph.png>]
 \openout4 = `chameleon.vrb'.
@@ -1421,12 +1486,32 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 [][]
  []
 
+[12
 
+] <drug.png, id=96, 1284.8pt x 754.82pt>
+File: drug.png Graphic file (type png)
+ <use drug.png>
 Underfull \hbox (badness 10000) has occurred while \output is active
-[]
+[][]
  []
 
-[11
+[13
+
+ <./drug.png>] <calc.png, id=104, 1284.8pt x 754.82pt>
+File: calc.png Graphic file (type png)
+ <use calc.png>
+Underfull \hbox (badness 10000) has occurred while \output is active
+[][]
+ []
+
+[14
+
+ <./calc.png>]
+Underfull \hbox (badness 10000) has occurred while \output is active
+[][]
+ []
+
+[15
 
 ]
 \tf@nav=\write6
@@ -1445,23 +1530,22 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 18088 strings out of 493848
- 317291 string characters out of 1152823
- 416573 words of memory out of 3000000
- 20850 multiletter control sequences out of 15000+50000
+ 18623 strings out of 493848
+ 322845 string characters out of 1152823
+ 420103 words of memory out of 3000000
+ 21371 multiletter control sequences out of 15000+50000
  22831 words of font info for 59 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
  49i,16n,53p,423b,1056s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/share/texmf
 -texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type
-1/public/cm-super/sfss0600.pfb></usr/share/texmf/fonts/type1/public/cm-super/sf
-ss0800.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1000.pfb></usr/sha
-re/texmf/fonts/type1/public/cm-super/sfss1095.pfb></usr/share/texmf/fonts/type1
-/public/cm-super/sfss1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sft
-t0800.pfb>
-Output written on chameleon.pdf (11 pages, 876699 bytes).
+1/public/cm-super/sfss0800.pfb></usr/share/texmf/fonts/type1/public/cm-super/sf
+ss1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1095.pfb></usr/sha
+re/texmf/fonts/type1/public/cm-super/sfss1440.pfb></usr/share/texmf/fonts/type1
+/public/cm-super/sftt0800.pfb>
+Output written on chameleon.pdf (15 pages, 1109723 bytes).
 PDF statistics:
- 121 PDF objects out of 1000 (max. 8388607)
- 22 named destinations out of 1000 (max. 500000)
- 78 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 144 PDF objects out of 1000 (max. 8388607)
+ 30 named destinations out of 1000 (max. 500000)
+ 93 words of extra memory for PDF output out of 10000 (max. 10000000)
 

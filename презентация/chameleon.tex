@@ -28,9 +28,9 @@
                                 % than watermarkheight.
           ]{Torino}
 \usecolortheme{nouvelle}
-\author{Османов А.Л.}
+\author{Выполнил: студент группы 973б \\ Османов А.Л.}
 \title{СОЗДАНИЕ RDF-ХРАНИЛИЩА ИНФОРМАЦИИ НА РУССКОМ ЯЗЫКЕ ПО ЛЕКАРСТВЕННЫМ ПРЕПАРАТАМ}
-\institute{Кафедра технологий программирования \\ Научный руководитель: доктор физико-математических наук, профессор Соловьев В.Д.}
+\institute{Научный руководитель: доктор физико-математических наук, профессор \\ Соловьев В.Д.}
 
 \date{Казань \\ 2012}
 
@@ -69,11 +69,27 @@
 \end{tabular}
 
 \end{frame}
+\begin{frame}{Преимущества Semantic Web}
+ \begin{itemize}
+   \item Гибкая модель хранения данных(RDF)
+   \includegraphics[width=80mm]{rdf.png}
+ \end{itemize}
 
+\end{frame}
 \begin{frame}[t,fragile]{Используемые технологии}
 \includegraphics[width=100mm]{words.png}
 \end{frame}
-\begin{frame}[t]{Онтология}
+\begin{frame}{Постановка задачи}
+ \begin{enumerate}
+  \item Разработка онтологии лекарственных препаратов
+  \item Скачивание и парсинг информации с ресурса Webapteka
+  \item Конвертация html данных в rdf представление
+  \item Разработка SPARQL-запросов для извлечения информации и выяв­ления дополнительных связей в RDF-хранилище.
+  \item Разработка пользовательского интерфейса
+\end{enumerate}
+\end{frame}
+
+\begin{frame}[t]{Разработка онтологии}
   \begin{itemize}
   \item Описывание взаимоотношений.
     \\Лекарство:
@@ -109,15 +125,20 @@
 \end{tabular}
 \end{frame}
 \begin{frame}[t]{Выбор RDF-хранилища}
+\begin{tabular}{l l}
+\begin{minipage}{0.3\textwidth}
  \begin{itemize}
   \item 3store
   \item Sesame
   \item RDFdo
   \item Jena
  \end{itemize}
-\end{frame}
-\begin{frame}[t]{Сравнение RDF-хранилищ}
+\end{minipage}
+&
+\begin{minipage}{0.7\textwidth}
 \includegraphics[width=70mm]{storages.png}
+\end{minipage}
+\end{tabular}
 \end{frame}
 \begin{frame}[t]{Парсинг ресурса Webapteka.ru}
 \includegraphics[width=100mm]{webapteka.png}
@@ -174,10 +195,23 @@ drug.brandName = "Аспирин"
 	  ?drug <http://osmanov.me/has_contraindication> ?contraindication
   }
 \end{lstlisting}
-
-
 \end{frame}
 
+\begin{frame}{Интерфейс}
+  \includegraphics[width=100mm]{drug.png}
+\end{frame}
+\begin{frame}{Интерфейс}
+  \includegraphics[width=100mm]{calc.png}
+\end{frame}
+
+\begin{frame}{Результат}
+  \begin{itemize}
+   \item Полноценное RDF-хранилище
+   \item 20000 лекарств
+   \item Пользовательский интерфейс
+  \end{itemize}
+
+\end{frame}
 
 \end{document}
 

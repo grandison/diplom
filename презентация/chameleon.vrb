@@ -15,5 +15,3 @@
   ?drug <http://osmanov.me/has_contraindication> ?contraindication
   }
 \end{lstlisting}
-
-
