@@ -7,6 +7,7 @@
 \usepackage{listingsutf8}
 \usepackage{listings}
 \definecolor{light-gray}{gray}{0.95}
+\PrerenderUnicode{Рҷ}
 \lstset{
   inputencoding=utf8x,
   extendedchars=\true,
@@ -26,13 +27,12 @@
           watermarkheightmult=4,% The watermark image is 4 times bigger
                                 % than watermarkheight.
           ]{Torino}
-
 \usecolortheme{nouvelle}
-\author{Александр Османов}
+\author{Османов А.Л.}
 \title{СОЗДАНИЕ RDF-ХРАНИЛИЩА ИНФОРМАЦИИ НА РУССКОМ ЯЗЫКЕ ПО ЛЕКАРСТВЕННЫМ ПРЕПАРАТАМ}
-\institute{Кафедра технологий программирования}
-\date{}
-\PrerenderUnicode{}
+\institute{Кафедра технологий программирования \\ Научный руководитель: доктор физико-математических наук, профессор Соловьев В.Д.}
+
+\date{Казань \\ 2012}
 
 
 \begin{document}
@@ -45,9 +45,10 @@
 
 \begin{frame}[t]{Преимущества Semantic Web}
   \begin{itemize}
-  \item Обмен информацией между информационными ресурсами.
-  \item Извлечение релевантной информации для поисковых систем.
+  \item Легкий обмен информацией между хранилищами знаний. \includegraphics[width=30mm]{sparql.png}
+  \item Извлечение релевантной информации для поисковых систем. 
   \item Получение нового знания.
+  \item Интеграция в мировое распределенное хранилище знаний.
   \end{itemize}
 \end{frame}
 
@@ -138,6 +139,7 @@ drug.brandName = "Аспирин"
 \end{tabular}
 \end{frame}
 \begin{frame}[fragile]{SPARQL}
+Похожие лекарства
 \begin{lstlisting}
   SELECT ?drug 
   WHERE {
@@ -146,6 +148,15 @@ drug.brandName = "Аспирин"
     FILTER (?drug != <#{uri}>)
   }
 \end{lstlisting}
+Суммарные противопоказания
+\begin{lstlisting}
+  SELECT ?contraindication
+  WHERE {
+	  #{names_query} .
+	  ?drug <http://osmanov.me/has_contraindication> ?contraindication
+  }
+\end{lstlisting}
+
 
 \end{frame}
 

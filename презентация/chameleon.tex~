@@ -28,11 +28,11 @@
                                 % than watermarkheight.
           ]{Torino}
 \usecolortheme{nouvelle}
-\author{Александр Османов}
+\author{Османов А.Л.}
 \title{СОЗДАНИЕ RDF-ХРАНИЛИЩА ИНФОРМАЦИИ НА РУССКОМ ЯЗЫКЕ ПО ЛЕКАРСТВЕННЫМ ПРЕПАРАТАМ}
-\institute{Кафедра технологий программирования}
+\institute{Кафедра технологий программирования \\ Научный руководитель: доктор физико-математических наук, профессор Соловьев В.Д.}
 
-\date{}
+\date{Казань \\ 2012}
 
 
 \begin{document}
@@ -44,11 +44,30 @@
 \end{frame}
 
 \begin{frame}[t]{Преимущества Semantic Web}
-  \begin{itemize}
-  \item Обмен информацией между информационными ресурсами.
-  \item Извлечение релевантной информации для поисковых систем.
-  \item Получение нового знания.
-  \end{itemize}
+\begin{tabular}{l l}
+\begin{minipage}{0.5\textwidth}
+\begin{itemize}
+\item Легкий обмен информацией между хранилищами знаний.
+ \vspace{1em}
+\item Извлечение релевантной информации для поисковых систем. 
+ \vspace{1em}
+\item Получение нового знания.
+ \vspace{1em}
+\item Интеграция в мировое распределенное хранилище знаний.
+\end{itemize}
+\end{minipage}
+&
+\begin{minipage}{0.5\textwidth}
+\includegraphics[width=15mm]{link.png}
+\\
+\includegraphics[width=50mm]{imdb.png}
+\\
+\includegraphics[width=15mm]{sparql.png}
+\\
+\includegraphics[width=35mm]{semwebgraph.png}
+\end{minipage}
+\end{tabular}
+
 \end{frame}
 
 \begin{frame}[t,fragile]{Используемые технологии}
