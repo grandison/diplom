@@ -1,4 +1,5 @@
-\frametitle {SPARQL}\begin {lstlisting}
+\frametitle {SPARQL}Похожие лекарства
+\begin{lstlisting}
   SELECT ?drug
   WHERE {
     ?drug <http://osmanov.me/drugComponent> ?drugPart .
@@ -6,4 +7,13 @@
     FILTER (?drug != <#{uri}>)
   }
 \end{lstlisting}
+Суммарные противопоказания
+\begin{lstlisting}
+  SELECT ?contraindication
+  WHERE {
+  #{names_query} .
+  ?drug <http://osmanov.me/has_contraindication> ?contraindication
+  }
+\end{lstlisting}
+
 

@@ -7,7 +7,6 @@
 \usepackage{listingsutf8}
 \usepackage{listings}
 \definecolor{light-gray}{gray}{0.95}
-\PrerenderUnicode{Рҷ}
 \lstset{
   inputencoding=utf8x,
   extendedchars=\true,
@@ -27,12 +26,13 @@
           watermarkheightmult=4,% The watermark image is 4 times bigger
                                 % than watermarkheight.
           ]{Torino}
+
 \usecolortheme{nouvelle}
 \author{Александр Османов}
 \title{СОЗДАНИЕ RDF-ХРАНИЛИЩА ИНФОРМАЦИИ НА РУССКОМ ЯЗЫКЕ ПО ЛЕКАРСТВЕННЫМ ПРЕПАРАТАМ}
 \institute{Кафедра технологий программирования}
-
 \date{}
+\PrerenderUnicode{}
 
 
 \begin{document}
@@ -138,7 +138,6 @@ drug.brandName = "Аспирин"
 \end{tabular}
 \end{frame}
 \begin{frame}[fragile]{SPARQL}
-Похожие лекарства
 \begin{lstlisting}
   SELECT ?drug 
   WHERE {
@@ -147,15 +146,6 @@ drug.brandName = "Аспирин"
     FILTER (?drug != <#{uri}>)
   }
 \end{lstlisting}
-Суммарные противопоказания
-\begin{lstlisting}
-  SELECT ?contraindication
-  WHERE {
-	  #{names_query} .
-	  ?drug <http://osmanov.me/has_contraindication> ?contraindication
-  }
-\end{lstlisting}
-
 
 \end{frame}
 
